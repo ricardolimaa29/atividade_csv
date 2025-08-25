@@ -27,6 +27,8 @@ Tiago,18,6.2
 Vitória,19,8.4
 ```
 
+sum() / len(linha["nota"])
+
 Crie um script em Python que:
 
 1. Mostrar apenas os nomes dos alunos.
